@@ -10,7 +10,7 @@
 <meta name="keywords" content="business, christmas, conference, event, exhibition, halloween, landing page, launch, marketing, meeting, modern, new year, seminar, speakers, thanksgiving, summit, expo, fair, booking">
 <meta name="author" content="jThemes Studio">
 <title>imEvent EM - Event Conference Landing Page</title>
-<link rel="stylesheet" type="text/css" href="splash/css/bootstrap.css" media="all">
+<link rel="stylesheet" type="text/css" href="<?= base_url() ?>splash/css/bootstrap.css" media="all">
 <link rel="stylesheet" type="text/css" href="splash/css/style.css" media="all">
 <link rel="stylesheet" type="text/css" href="splash/css/font-awesome.min.css" media="all">
 <link type="text/css" media="screen" rel="stylesheet" href="splash/awwwards.css" />
