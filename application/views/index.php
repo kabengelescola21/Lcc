@@ -12,7 +12,7 @@
 <title>imEvent EM - Event Conference Landing Page</title>
 <link rel="stylesheet" type="text/css" href="<?= base_url() ?>splash/css/bootstrap.css" media="all">
 <link rel="stylesheet" type="text/css" href="<?= base_url() ?>splash/css/style.css" media="all">
-<link rel="stylesheet" type="text/css" href="splash/css/font-awesome.min.css" media="all">
+<link rel="stylesheet" type="text/css" href="<?= base_url() ?>splash/css/font-awesome.min.css" media="all">
 <link type="text/css" media="screen" rel="stylesheet" href="splash/awwwards.css" />
 <!--[if lt IE 9]>
 <script src="css/respond.min.js"></script>
