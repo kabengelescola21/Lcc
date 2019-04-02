@@ -3,8 +3,6 @@
 <!--[if IE 7 ]><html class="ie ie7" lang="en"><![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"><![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
-
-<!-- Mirrored from eazzy.me/html/imevent/index-light.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Apr 2019 09:47:43 GMT -->
 <head>
     <meta charset="utf-8">
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
@@ -83,7 +81,7 @@
                     <li><a href="#speakers">Speakers</a></li>
                     <li><a href="#price">Price</a></li>
                     <li><a href="#location">Location</a></li>
-                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="<?= base_url() ?>blog">Blog</a></li>
                 </ul>
             </nav>
             <!-- /Navigation -->
