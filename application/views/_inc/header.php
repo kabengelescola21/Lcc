@@ -30,7 +30,6 @@
     <link href="<?= base_url(); ?>assets/css/custom.css" rel="stylesheet">
 
     <link type="text/css" media="screen" rel="stylesheet" href="<?= base_url(); ?>assets/css/awwwards.css" />
-    <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js" integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw==" crossorigin=""></script>
@@ -59,7 +58,7 @@
 	</script>
 	<style type="text/css">
 		#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
-			height:550px;
+			height:100%;
 		}
 	</style>
     <!--[if lt IE 9]>
