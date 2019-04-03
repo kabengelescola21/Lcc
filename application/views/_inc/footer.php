@@ -57,23 +57,23 @@
 <script type="text/javascript">
     
     //OSM with params
-    var mymap = L.map('my_osm_widget_map', { /* use the same name as your <div id=""> */
-    center: [11.6744, 27.4998], /* set GPS Coordinates */
-    zoom: 17, /* define the zoom level */
-    zoomControl: false, /* false = no zoom control buttons displayed */
-    scrollWheelZoom: false /* false = scrolling zoom on the map is locked */
+    /*var mymap = L.map('my_osm_widget_map', {
+    center: [11.6744, 27.4998], 
+    zoom: 17, 
+    zoomControl: false,
+    scrollWheelZoom: false 
     });
 
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=XXX-YOUR-MAPBOX-ACCESS-TOKEN-XXX', { /* set your personal MapBox Access Token */
-    maxZoom: 20, /* zoom limit of the map */
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=XXX-YOUR-MAPBOX-ACCESS-TOKEN-XXX', {
+    maxZoom: 20, 
     attribution: 'Données &copy; Contributeurs <a href="http://openstreetmap.org">OpenStreetMap</a> + ' +
         '<a href="http://mapbox.com">Mapbox</a> | ' +
         '<a href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a> ' +
-        'Guillaume Rouan 2016', /* set the map's caption */
-        id: 'mapbox.streets' /* mapbox.light / dark / streets / outdoors / satellite */
+        'Guillaume Rouan 2016', 
+        id: 'mapbox.streets' 
     }).addTo(mymap);
 
-    L.marker([XXX-LATITUDE-XXX, XXX-LONGITUDE-XXX]).addTo(mymap); /* set your location's GPS Coordinates : [LAT,LON] */
+    L.marker([XXX-LATITUDE-XXX, XXX-LONGITUDE-XXX]).addTo(mymap);*/
     //OSM with params js
     
     jQuery(document).ready(function () {
