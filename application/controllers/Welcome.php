@@ -18,6 +18,8 @@ class Welcome extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
+
+	##################################################################### 
 	public function index()
 	{
 		$this->load->view('_inc/header');
@@ -28,13 +30,13 @@ class Welcome extends CI_Controller {
 	#####################################################################
 	public function view_blog(){
 
-
+		$this->load->view('blog');
 	}
 
 	#####################################################################
 	public function blog(){
 
-
+	
 	}
 
 	#####################################################################
