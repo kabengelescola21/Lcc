@@ -30,6 +30,7 @@
     <link href="<?= base_url(); ?>assets/css/custom.css" rel="stylesheet">
 
     <link type="text/css" media="screen" rel="stylesheet" href="<?= base_url(); ?>assets/css/awwwards.css" />
+    <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
 
     <!--[if lt IE 9]>
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
@@ -80,7 +81,7 @@
                     <li><a href="#sponsors">Sponsors</a></li>
                     <li><a href="#speakers">Speakers</a></li>
                     <li><a href="#price">Price</a></li>
-                    <li><a href="#location">Location</a></li>
+                    <li><a href="#location">Localisation</a></li>
                 </ul>
             </nav>
             <!-- /Navigation -->
