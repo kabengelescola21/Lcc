@@ -2862,12 +2862,22 @@
 
                 <!-- Google map -->
                 <div class="google-map">
-                    <div id="map-canvas"></div>
+                    <!--div id="map-canvas"></div-->
 
-                    <div id="my_osm_widget_map"></div>
-                    
-                </div>
-                <!-- /Google map -->
+                    <!--div id="my_osm_widget_map"></div-->
+                    <iframe width="100%" height="100%" frameborder="0" scrolling="no" 
+                        marginheight="0" marginwidth="0" 
+                        src="https://www.openstreetmap.org/export/embed.html?bbox=-2.493209838867188%2C53.50540525319918%2C-2.246360778808594%2C53.61980121473449&amp;layer=mapnik&amp;marker=53.56274386269267%2C-2.3699569702148438" 
+                        style="border: 1px solid black">
+                    </iframe><br/>
+                    <small>
+                        <a href="https://www.openstreetmap.org/?mlat=53.5627&amp;mlon=-2.3700#map=12/53.5626/-2.3698">
+                        View Larger Map
+                        </a>
+                    </small>
+
+                <!--/div-->
+                <!--/Google map-->
 
             </div>
         </section>
