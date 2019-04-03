@@ -1,90 +1,3 @@
-<!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"><![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"><![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"><![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"><!--<![endif]-->
-
-<!-- Mirrored from eazzy.me/html/imevent/index-audio.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Apr 2019 09:52:21 GMT -->
-<head>
-    <meta charset="utf-8">
-    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>im Event</title>
-
-    <!-- Favicons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
-
-    <!-- CSS Global -->
-    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/plugins/fontawesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="assets/plugins/bootstrap-select/bootstrap-select.min.css" rel="stylesheet">
-    <link href="assets/plugins/owlcarousel2/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="assets/plugins/owlcarousel2/assets/owl.theme.default.min.css" rel="stylesheet">
-    <link href="assets/plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet">
-    <link href="assets/plugins/animate/animate.min.css" rel="stylesheet">
-    <link href="assets/plugins/countdown/jquery.countdown.css" rel="stylesheet">
-
-    <link href="assets/css/theme.css" rel="stylesheet">
-    <link href="assets/css/custom.css" rel="stylesheet">
-
-    <!--[if lt IE 9]>
-    <script src="assets/plugins/iesupport/html5shiv.js"></script>
-    <script src="assets/plugins/iesupport/respond.min.js"></script>
-    <![endif]-->
-</head>
-<body id="home" class="wide body-light">
-
-<!-- Preloader -->
-<div id="preloader">
-    <div id="status">
-        <div class="spinner"></div>
-    </div>
-</div>
-
-<!-- Wrap all content -->
-<div class="wrapper">
-
-    <!-- HEADER -->
-    <header class="header fixed">
-        <div class="container">
-            <div class="header-wrapper clearfix">
-
-            <!-- Logo -->
-            <div class="logo">
-                <a href="#home" class="scroll-to">
-                    <span class="fa-stack">
-                        <i class="fa logo-hex fa-stack-2x"></i>
-                        <i class="fa logo-fa fa-map-marker fa-stack-1x"></i>
-                    </span>
-                    im Event
-                </a>
-            </div>
-            <!-- /Logo -->
-
-            <!-- Navigation -->
-            <div id="mobile-menu"></div>
-            <nav class="navigation closed clearfix">
-                <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
-                <ul class="sf-menu nav">
-                    <li class="active"><a href="#home">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#schedule">Schedule</a></li>
-                    <li><a href="#sponsors">Sponsors</a></li>
-                    <li><a href="#speakers">Speakers</a></li>
-                    <li><a href="#price">Price</a></li>
-                    <li><a href="#location">Location</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="#" class="control play"><i class="fa fa-play"></i></a></li>
-                </ul>
-            </nav>
-            <!-- /Navigation -->
-
-            </div>
-        </div>
-    </header>
-    <!-- /HEADER -->
 
     <!-- Content area -->
     <div class="content-area">
@@ -102,7 +15,7 @@
                         <div class="container">
                             <div class="div-table">
                                 <div class="div-cell">
-                                    <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2014</span></h2>
+                                    <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2015</span></h2>
                                     <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
                                     <div class="countdown-wrapper">
                                         <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
@@ -122,7 +35,7 @@
                     <div class="container">
                         <div class="div-table">
                         <div class="div-cell">
-                            <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2014</span></h2>
+                            <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2015</span></h2>
                             <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
                             <p class="caption-text">
                                 <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a><!--
@@ -179,7 +92,7 @@
                                             <div class="col-sm-12">
                                                 <div class="form-group selectpicker-wrapper">
                                                     <select
-                                                            class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                                            class="selectpicker input-price" data-live-search="false" data-width="100%"
                                                             data-toggle="tooltip" title="Select Your Price Tab">
                                                         <option>Select Your Price Tab</option>
                                                         <option>$100</option>
@@ -202,7 +115,7 @@
                                 </div>
                                 <div class="col-md-6 col-lg-8">
                                     <div class="text-holder">
-                                    <h2 class="caption-title">January 17-19, 2014</h2>
+                                    <h2 class="caption-title">January 17-19, 2015</h2>
                                     <h3 class="caption-subtitle">PHP Conference ın ıstanbul </h3>
                                     </div>
                                 </div>
@@ -221,7 +134,7 @@
                     <div class="container">
                         <div class="div-table">
                         <div class="div-cell">
-                            <h2 class="caption-title"><span>January 17-19, 2014</span></h2>
+                            <h2 class="caption-title"><span>January 17-19, 2015</span></h2>
                             <h3 class="caption-subtitle">PHP Conference ın Istanbul</h3>
                             <p class="caption-text">
                                 <a class="btn btn-play" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto"><i class="fa fa-play"></i></a>
@@ -251,7 +164,7 @@
                                             </span>
                                     <div class="media-body">
                                         <h4 class="media-heading">Date</h4>
-                                        <span>January 17- 19, 2014</span>
+                                        <span>January 17- 19, 2015</span>
                                     </div>
                                 </div>
                             </div>
@@ -444,9 +357,9 @@
                 <div class="schedule-wrapper clear" data-animation="fadeIn" data-animation-delay="200">
                     <div class="schedule-tabs lv1">
                         <ul id="tabs-lv1"  class="nav nav-justified">
-                            <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Day 01</strong> <br/>17.05.2014</a></li>
-                            <li><a href="#tab-second" data-toggle="tab"><strong>Day 02</strong> <br/>18.05.2014</a></li>
-                            <li><a href="#tab-third" data-toggle="tab"><strong>Day 03</strong> <br/>19.05.2014</a></li>
+                            <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Day 01</strong> <br/>17.05.2015</a></li>
+                            <li><a href="#tab-second" data-toggle="tab"><strong>Day 02</strong> <br/>18.05.2015</a></li>
+                            <li><a href="#tab-third" data-toggle="tab"><strong>Day 03</strong> <br/>19.05.2015</a></li>
                             <li><a href="#tab-last" data-toggle="tab"><strong>By speaker</strong></a></li>
                         </ul>
                     </div>
@@ -2667,7 +2580,7 @@
                         <div class="col-sm-6 col-md-3">
                             <div class="form-group selectpicker-wrapper" data-animation="fadeInUp" data-animation-delay="800">
                                 <select
-                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                        class="selectpicker input-price" data-live-search="false" data-width="100%"
                                         data-toggle="tooltip" title="Select Your Price Tab">
                                     <option>Select Your Price Tab</option>
                                     <option>$100</option>
@@ -2829,7 +2742,7 @@
                                         Posted on
                                         <span class="day">17th</span>
                                         <span class="month">May</span>
-                                        <span class="year">2014</span>
+                                        <span class="year">2015</span>
                                     </span>
                                     <span class="pull-right">
                                         <i class="fa fa-comment"></i> <a href="#">12</a>
@@ -2865,7 +2778,7 @@
                                         Posted on
                                         <span class="day">17th</span>
                                         <span class="month">May</span>
-                                        <span class="year">2014</span>
+                                        <span class="year">2015</span>
                                     </span>
                                     <span class="pull-right">
                                         <i class="fa fa-comment"></i> <a href="#">12</a>
@@ -3013,98 +2926,4 @@
     </div>
     <!-- /Content area -->
 
-    <!-- FOOTER -->
-    <footer class="footer">
-        <div class="footer-meta">
-            <div class="container text-center">
-                <div class="clearfix">
-                    <ul class="social-line list-inline">
-                        <li data-animation="flipInY" data-animation-delay="100"><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li data-animation="flipInY" data-animation-delay="200"><a href="#" class="dribbble"><i class="fa fa-dribbble"></i></a></li>
-                        <li data-animation="flipInY" data-animation-delay="300"><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li data-animation="flipInY" data-animation-delay="400"><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                        <li data-animation="flipInY" data-animation-delay="500"><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
-                        <li data-animation="flipInY" data-animation-delay="600"><a href="#" class="pinterest"><i class="fa fa-pinterest"></i></a></li>
-                        <li data-animation="flipInY" data-animation-delay="700"><a href="#" class="skype"><i class="fa fa-skype"></i></a></li>
-                    </ul>
-                </div>
-                <span class="copyright" data-animation="fadeInUp" data-animation-delay="100">&copy; 2014 im Event &#8212; An One Page Event Manager Theme Designed & Developed By <a href="https://jthemes.com/" target="_blank" title="Top HTML Templates">Jthemes Studio</a></span>
-            </div>
-        </div>
-    </footer>
-    <!-- /FOOTER -->
-
-    <div class="to-top"><i class="fa fa-angle-up"></i></div>
-
-    <audio id="player" preload="auto">
-        <source src="assets/audio/dance-background.mp3" />
-    </audio>
-
-</div>
-<!-- /Wrap all content -->
-
-<!-- JS Global -->
-
-<!--[if lt IE 9]><script src="assets/plugins/jquery/jquery-1.11.1.min.js"></script><![endif]-->
-<!--[if gte IE 9]><!--><script src="assets/plugins/jquery/jquery-2.1.1.min.js"></script><!--<![endif]-->
-<script src="assets/plugins/modernizr.custom.js"></script>
-<script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
-<script src="assets/plugins/bootstrap-select/bootstrap-select.min.js"></script>
-<script src="assets/plugins/superfish/js/superfish.js"></script>
-<script src="assets/plugins/prettyphoto/js/jquery.prettyPhoto.js"></script>
-<script src="assets/plugins/placeholdem.min.js"></script>
-<script src="assets/plugins/jquery.smoothscroll.min.js"></script>
-<script src="assets/plugins/jquery.easing.min.js"></script>
-
-<!-- JS Page Level -->
-<script src="assets/plugins/owlcarousel2/owl.carousel.min.js"></script>
-<script src="assets/plugins/waypoints/waypoints.min.js"></script>
-<script src="assets/plugins/countdown/jquery.plugin.min.js"></script>
-<script src="assets/plugins/countdown/jquery.countdown.min.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-
-<script src="assets/js/theme-ajax-mail.js"></script>
-<script src="assets/js/theme.js"></script>
-<script src="assets/js/custom.js"></script>
-
-<script type="text/javascript">
-    jQuery(document).ready(function () {
-        theme.init();
-        theme.initMainSlider();
-        theme.initCountDown();
-        theme.initPartnerSlider();
-        theme.initTestimonials();
-        theme.initGoogleMap();
-    });
-    jQuery(window).load(function () {
-        theme.initAnimation();
-    });
-
-    jQuery(window).load(function () { jQuery('body').scrollspy({offset: 100, target: '.navigation'}); });
-    jQuery(window).load(function () { jQuery('body').scrollspy('refresh'); });
-    jQuery(window).resize(function () { jQuery('body').scrollspy('refresh'); });
-
-    jQuery(document).ready(function () { theme.onResize(); });
-    jQuery(window).load(function(){ theme.onResize(); });
-    jQuery(window).resize(function(){ theme.onResize(); });
-
-    jQuery(window).load(function() {
-        if (location.hash != '') {
-            var hash = '#' + window.location.hash.substr(1);
-            if (hash.length) {
-                jQuery('html,body').delay(0).animate({
-                    scrollTop: jQuery(hash).offset().top - 44 + 'px'
-                }, {
-                    duration: 1200,
-                    easing: "easeInOutExpo"
-                });
-            }
-        }
-    });
-
-</script>
-
-</body>
-
-<!-- Mirrored from eazzy.me/html/imevent/index-audio.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Apr 2019 09:52:22 GMT -->
-</html>
+    
