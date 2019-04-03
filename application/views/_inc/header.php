@@ -59,7 +59,7 @@
 	</script>
 	<style type="text/css">
 		#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
-			height:400px;
+			height:550px;
 		}
 	</style>
     <!--[if lt IE 9]>
