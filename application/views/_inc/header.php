@@ -76,7 +76,7 @@
                 <ul class="sf-menu nav">
                     <li class="active"><a href="#home">Home</a></li>
                     <li><a href="#about">About</a></li>
-                    <li><a href="#schedule">Schedule</a></li>
+                    <li><a href="#schedule">Horraires</a></li>
                     <li><a href="#sponsors">Sponsors</a></li>
                     <li><a href="#speakers">Speakers</a></li>
                     <li><a href="#price">Price</a></li>

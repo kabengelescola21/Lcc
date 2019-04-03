@@ -344,12 +344,12 @@
                     <div class="col-md-8 pull-left">
                         <h1 class="section-title">
                             <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
-                            <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Conference or Event Schedule <small>/ dont forget it</small></span>
+                            <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Horraire d'evenements <small></small></span>
                         </h1>
                     </div>
                     <div class="col-md-4 text-right-md pull-right">
                         <a href="#" class="btn btn-theme btn-theme-lg btn-theme-transparent-grey pull-right"
-                           data-animation="flipInY" data-animation-delay="300"><i class="fa fa-print"></i> Download Schedule</a>
+                           data-animation="flipInY" data-animation-delay="300"><i class="fa fa-print"></i>Télécharger l'horraire</a>
                     </div>
                 </div>
 
@@ -357,10 +357,10 @@
                 <div class="schedule-wrapper clear" data-animation="fadeIn" data-animation-delay="200">
                     <div class="schedule-tabs lv1">
                         <ul id="tabs-lv1"  class="nav nav-justified">
-                            <li class="active"><a href="#tab-first" data-toggle="tab"><strong>Day 01</strong> <br/>17.05.2015</a></li>
-                            <li><a href="#tab-second" data-toggle="tab"><strong>Day 02</strong> <br/>18.05.2015</a></li>
-                            <li><a href="#tab-third" data-toggle="tab"><strong>Day 03</strong> <br/>19.05.2015</a></li>
-                            <li><a href="#tab-last" data-toggle="tab"><strong>By speaker</strong></a></li>
+                            <li class="active"><a href="#tab-first" data-toggle="tab"><strong>jour 01</strong> <br/>17.05.2015</a></li>
+                            <li><a href="#tab-second" data-toggle="tab"><strong>jour 02</strong> <br/>18.05.2015</a></li>
+                            <li><a href="#tab-third" data-toggle="tab"><strong>jour 03</strong> <br/>19.05.2015</a></li>
+                            <li><a href="#tab-last" data-toggle="tab"><strong>Par Orateur</strong></a></li>
                         </ul>
                     </div>
                     <div class="tab-content lv1">
