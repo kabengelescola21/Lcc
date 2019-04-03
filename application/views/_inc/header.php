@@ -29,7 +29,7 @@
     <link href="<?= base_url(); ?>assets/css/theme-red-1.css" rel="stylesheet" id="theme-config-link">
     <link href="<?= base_url(); ?>assets/css/custom.css" rel="stylesheet">
 
-    <link type="text/css" media="screen" rel="stylesheet" href="<?= base_url(); ?>awwwards.css" />
+    <link type="text/css" media="screen" rel="stylesheet" href="<?= base_url(); ?>assets/css/awwwards.css" />
 
     <!--[if lt IE 9]>
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
