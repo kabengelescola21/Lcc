@@ -36,6 +36,16 @@
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
     <script src="assets/plugins/iesupport/respond.min.js"></script>
     <![endif]-->
+
+    <style>
+        #my_osm_widget_map { /* use the same name as <div id=""> */
+        width: 100%; /* important! if you need full width display */
+        height: 400px;
+        margin: 0;
+        border-radius: 5px;
+        /* ... */
+}
+    </style>
 </head>
 <body id="home" class="wide body-light">
 
