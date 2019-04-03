@@ -25,4 +25,10 @@ class Welcome extends CI_Controller {
 		$this->load->view('_inc/footer');
 	}
 
+	#####################################################################
+	public function view_blog(){
+
+
+	}
+
 }
