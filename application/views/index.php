@@ -142,7 +142,7 @@
                 </div>
 
                 <!-- Slide -->
-                <div class="item page slide2">
+                <!-- <div class="item page slide2">
                     <div class="caption">
                     <div class="container">
                         <div class="div-table">
@@ -157,7 +157,7 @@
                                         </h1>
                                     </div>
 
-                                    <form id="registration-form-alt" name="registration-form-alt" class="registration-form alt" action="#" method="post">
+                                     <form id="registration-form-alt" name="registration-form-alt" class="registration-form alt" action="#" method="post">
                                         <div class="row">
                                             <div class="col-sm-12 form-alert"></div>
                                             <div class="col-sm-12">
@@ -203,10 +203,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </form>
-
+                                    </form> 
                                     </div>
-                                </div>
+                                </div> 
                                 <div class="col-md-6 col-lg-8">
                                     <div class="text-holder">
                                     <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>Avril 17-19, 2019</span></h2>
@@ -220,7 +219,7 @@
                         </div>
                     </div>
                     </div>
-                </div>
+                </div> -->
 
                 <!-- Slide -->
                 <div class="item page text-center slide3">
