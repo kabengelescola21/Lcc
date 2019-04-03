@@ -363,7 +363,17 @@
                             <li><a href="#tab-last" data-toggle="tab"><strong>Par Orateur</strong></a></li>
                         </ul>
                     </div>
-                    <div class="tab-content lv1">
+                    <div id="tab-first" class="tab-pane fade in active">
+                        <div class="tab-content lv1">
+                            <div class="schedule-tabs lv2">
+                                <ul id="tabs-lv21"  class="nav nav-justified">
+                                    <li class="active"><a href="#tab-lv21-first" data-toggle="tab">HAll A</a></li>
+                                    <li><a href="#tab-lv21-second" data-toggle="tab">HAll B</a></li>
+                                    <li><a href="#tab-lv21-third" data-toggle="tab">HAll C</a></li>
+                                    <li><a href="#tab-lv21-last" data-toggle="tab">HAll D</a></li>
+                                </ul>
+                            </div>
+                            
                         <!-- tab1
                         <div id="tab-first" class="tab-pane fade in active">
                             <div class="schedule-tabs lv2">
