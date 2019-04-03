@@ -16,20 +16,20 @@
     <link rel="shortcut icon" href="assets/ico/favicon.ico">
 
     <!-- CSS Global -->
-    <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/plugins/fontawesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="assets/plugins/bootstrap-select/bootstrap-select.min.css" rel="stylesheet">
-    <link href="assets/plugins/owlcarousel2/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="assets/plugins/owlcarousel2/assets/owl.theme.default.min.css" rel="stylesheet">
-    <link href="assets/plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet">
-    <link href="assets/plugins/animate/animate.min.css" rel="stylesheet">
-    <link href="assets/plugins/countdown/jquery.countdown.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/fontawesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/bootstrap-select/bootstrap-select.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/owlcarousel2/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/owlcarousel2/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/prettyphoto/css/prettyPhoto.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/animate/animate.min.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/plugins/countdown/jquery.countdown.css" rel="stylesheet">
 
-    <link href="assets/css/theme.css" rel="stylesheet">
-    <link href="assets/css/theme-red-1.css" rel="stylesheet" id="theme-config-link">
-    <link href="assets/css/custom.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/css/theme.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/css/theme-red-1.css" rel="stylesheet" id="theme-config-link">
+    <link href="<?= base_url(); ?>assets/css/custom.css" rel="stylesheet">
 
-    <link type="text/css" media="screen" rel="stylesheet" href="awwwards.css" />
+    <link type="text/css" media="screen" rel="stylesheet" href="<?= base_url(); ?>awwwards.css" />
 
     <!--[if lt IE 9]>
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
@@ -37,3 +37,56 @@
     <![endif]-->
 </head>
 <body id="home" class="wide body-light">
+
+<div id="awwwards" class="honorable black left">
+<a href="http://awwwards.com/best-websites/im-event-event-landing-page/" target="_blank">Awwwards</a>
+</div>
+
+<!-- Preloader -->
+<div id="preloader">
+    <div id="status">
+        <div class="spinner"></div>
+    </div>
+</div>
+
+<!-- Wrap all content -->
+<div class="wrapper">
+
+    <!-- HEADER -->
+    <header class="header fixed">
+        <div class="container">
+            <div class="header-wrapper clearfix">
+
+            <!-- Logo -->
+            <div class="logo">
+                <a href="#home" class="scroll-to">
+                    <span class="fa-stack">
+                        <i class="fa logo-hex fa-stack-2x"></i>
+                        <i class="fa logo-fa fa-map-marker fa-stack-1x"></i>
+                    </span>
+                    im Event
+                </a>
+            </div>
+            <!-- /Logo -->
+
+            <!-- Navigation -->
+            <div id="mobile-menu"></div>
+            <nav class="navigation closed clearfix">
+                <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
+                <ul class="sf-menu nav">
+                    <li class="active"><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#schedule">Schedule</a></li>
+                    <li><a href="#sponsors">Sponsors</a></li>
+                    <li><a href="#speakers">Speakers</a></li>
+                    <li><a href="#price">Price</a></li>
+                    <li><a href="#location">Location</a></li>
+                    <li><a href="<?= base_url() ?>blog">Blog</a></li>
+                </ul>
+            </nav>
+            <!-- /Navigation -->
+
+            </div>
+        </div>
+    </header>
+    <!-- /HEADER -->
