@@ -9,11 +9,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <title>im Event</title>
+    <title>lcc</title>
 
     <!-- Favicons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?= base_url(); ?>assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="<?= base_url(); ?>assets/ico/favicon.ico">
 
     <!-- CSS Global -->
     <link href="<?= base_url(); ?>assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -64,7 +64,7 @@
                         <i class="fa logo-hex fa-stack-2x"></i>
                         <i class="fa logo-fa fa-map-marker fa-stack-1x"></i>
                     </span>
-                    im Event
+                    lcc
                 </a>
             </div>
             <!-- /Logo -->
@@ -81,7 +81,6 @@
                     <li><a href="#speakers">Speakers</a></li>
                     <li><a href="#price">Price</a></li>
                     <li><a href="#location">Location</a></li>
-                    <li><a href="<?= base_url() ?>blog">Blog</a></li>
                 </ul>
             </nav>
             <!-- /Navigation -->
