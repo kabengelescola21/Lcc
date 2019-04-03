@@ -231,7 +231,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">What's about event <small>/ whats going on there come and learn</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">A Propos de l'Evenement</span>
                 </h1>
                 <div class="row">
                     <div class="col-lg-8">
@@ -241,8 +241,8 @@
                             leo quis, facilisis metus. Sed pellentesque, urna sed varius consectetur, eros augue fringilla
                             magna, id sem magna vel diam. Nulla sed hendrerit nunc.</p>
                         <p class="btn-row">
-                            <a href="#register" class="btn btn-theme btn-theme-xl scroll-to" data-animation="flipInY" data-animation-delay="200">Register <i class="fa fa-arrow-circle-right"></i></a><!--
-                            --><a href="#" class="btn btn-theme btn-theme-xl btn-theme-transparent" data-animation="flipInY" data-animation-delay="400">Watch video</a>
+                            <a href="#register" class="btn btn-theme btn-theme-xl scroll-to" data-animation="flipInY" data-animation-delay="200">reserver <i class="fa fa-arrow-circle-right"></i></a><!--
+                            --><a href="#" class="btn btn-theme btn-theme-xl btn-theme-transparent" data-animation="flipInY" data-animation-delay="400">Video</a>
                         </p>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 pull-left">
