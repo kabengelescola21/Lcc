@@ -133,7 +133,7 @@
                                 <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">Semaine du rire</h3>
                                 <p class="caption-text">
                                     <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a><!--
-                                    --><a class="btn btn-theme btn-theme-xl btn-theme-transparent-white" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto" data-animation="flipInY" data-animation-delay="900">Watch video</a>
+                                    --><a class="btn btn-theme btn-theme-xl btn-theme-transparent-white" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto" data-animation="flipInY" data-animation-delay="900">Video</a>
                                 </p>
                             </div>
                             </div>
