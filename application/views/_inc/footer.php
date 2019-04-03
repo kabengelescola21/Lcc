@@ -55,6 +55,7 @@
 <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
 
 <script type="text/javascript">
+
     jQuery(document).ready(function () {
         theme.init();
         theme.initMainSlider();
