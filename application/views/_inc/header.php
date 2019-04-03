@@ -37,8 +37,8 @@
 
     <script type="text/javascript">
 			// On initialise la latitude et la longitude de Paris (centre de la carte)
-			var lat = 48.852969;
-			var lon = 2.349903;
+			var lat = -11.6908;
+			var lon = 27.5046;
 			var macarte = null;
 			// Fonction d'initialisation de la carte
 			function initMap() {
@@ -66,16 +66,6 @@
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
     <script src="assets/plugins/iesupport/respond.min.js"></script>
     <![endif]-->
-
-    <!--style>
-        #my_osm_widget_map { /* use the same name as <div id=""> */
-            width: 100%; /* important! if you need full width display */
-            height: 400px;
-            margin: 0;
-            border-radius: 5px;
-            /* ... */
-        }
-    </style-->
 </head>
 <body id="home" class="wide body-light">
 
