@@ -37,7 +37,7 @@
     <script src="assets/plugins/iesupport/respond.min.js"></script>
     <![endif]-->
 
-    <style>
+    <!--style>
         #my_osm_widget_map { /* use the same name as <div id=""> */
             width: 100%; /* important! if you need full width display */
             height: 400px;
@@ -45,7 +45,7 @@
             border-radius: 5px;
             /* ... */
         }
-    </style>
+    </style-->
 </head>
 <body id="home" class="wide body-light">
 
