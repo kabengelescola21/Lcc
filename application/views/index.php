@@ -115,7 +115,7 @@
                                             <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
                                         </div>
                                         <p class="caption-text">
-                                            <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a>
+                                            <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Reserver <i class="fa fa-arrow-circle-right"></i></a>
                                         </p>
                                     </div>
                                 </div>
@@ -132,7 +132,7 @@
                                 <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>Avril 17-19, 2019</span></h2>
                                 <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">Semaine du rire</h3>
                                 <p class="caption-text">
-                                    <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a><!--
+                                    <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Reserver <i class="fa fa-arrow-circle-right"></i></a><!--
                                     --><a class="btn btn-theme btn-theme-xl btn-theme-transparent-white" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto" data-animation="flipInY" data-animation-delay="900">Video</a>
                                 </p>
                             </div>
