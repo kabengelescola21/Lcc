@@ -66,7 +66,7 @@
                         <i class="fa logo-hex fa-stack-2x"></i>
                         <i class="fa logo-fa fa-map-marker fa-stack-1x"></i>
                     </span>
-                    im Event
+                    LubumComedieClub
                 </a>
             </div>
             <!-- /Logo -->
