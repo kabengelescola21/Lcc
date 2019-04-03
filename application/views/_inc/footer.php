@@ -55,27 +55,6 @@
 <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
 
 <script type="text/javascript">
-    
-    //OSM with params
-    /*var mymap = L.map('my_osm_widget_map', {
-    center: [11.6744, 27.4998], 
-    zoom: 17, 
-    zoomControl: false,
-    scrollWheelZoom: false 
-    });
-
-    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=XXX-YOUR-MAPBOX-ACCESS-TOKEN-XXX', {
-    maxZoom: 20, 
-    attribution: 'Données &copy; Contributeurs <a href="http://openstreetmap.org">OpenStreetMap</a> + ' +
-        '<a href="http://mapbox.com">Mapbox</a> | ' +
-        '<a href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a> ' +
-        'Guillaume Rouan 2016', 
-        id: 'mapbox.streets' 
-    }).addTo(mymap);
-
-    L.marker([XXX-LATITUDE-XXX, XXX-LONGITUDE-XXX]).addTo(mymap);*/
-    //OSM with params js
-    
     jQuery(document).ready(function () {
         theme.init();
         theme.initMainSlider();
