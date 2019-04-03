@@ -827,10 +827,8 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- tab2 -->
-                        <!--
+                        <!-- tab2
                         <div id="tab-second" class="tab-pane fade">
-
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv22"  class="nav nav-justified">
                                     <li class="active"><a href="#tab-lv22-first" data-toggle="tab">HAll A</a></li>
@@ -1292,10 +1290,8 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- tab3 -->
-
+                        <!-- tab3
                         <div id="tab-third" class="tab-pane fade">
-                            <!--
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv23"  class="nav nav-justified">
                                     <li class="active"><a href="#tab-lv23-first" data-toggle="tab">HAll A</a></li>
