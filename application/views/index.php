@@ -199,7 +199,7 @@
                                             </span>
                                     <div class="media-body">
                                         <h4 class="media-heading">places disponibles</h4>
-                                        <span>245 Places</span>
+                                        <span>240 Places</span>
                                     </div>
                                 </div>
                             </div>
