@@ -76,8 +76,8 @@
             <nav class="navigation closed clearfix">
                 <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
                 <ul class="sf-menu nav">
-                    <li class="active"><a href="#home">Home</a></li>
-                    <li><a href="#about">About</a></li>
+                    <li class="active"><a href="#home">Accueil</a></li>
+                    <li><a href="#about">A Propos</a></li>
                     <li><a href="#schedule">Schedule</a></li>
                     <li><a href="#sponsors">Sponsors</a></li>
                     <li><a href="#speakers">Speakers</a></li>
