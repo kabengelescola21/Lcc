@@ -541,7 +541,7 @@
                                     </div>
                                 </div>
                                 <div id="tab-lv21-second" class="tab-pane fade in active">
-                                    <div class="timeline">
+                                    <!--<div class="timeline">
 
                                         <article class="post-wrap">
                                             <div class="media">
@@ -660,7 +660,7 @@
                                             </div>
                                         </article>
 
-                                    </div>
+                                    </div>-->
                                 </div>
                                 <div id="tab-lv21-third" class="tab-pane fade">
                                     <div class="timeline">
