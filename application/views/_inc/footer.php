@@ -55,9 +55,10 @@
 <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
 
 <script type="text/javascript">
-
+    
+    //OSM with params
     var mymap = L.map('my_osm_widget_map', { /* use the same name as your <div id=""> */
-    center: [XXX-LATITUDE-CENTER-XXX, XXX-LONGITUDE-CENTER-XXX], /* set GPS Coordinates */
+    center: [11.6744, 27.4998], /* set GPS Coordinates */
     zoom: 17, /* define the zoom level */
     zoomControl: false, /* false = no zoom control buttons displayed */
     scrollWheelZoom: false /* false = scrolling zoom on the map is locked */
@@ -73,7 +74,8 @@
     }).addTo(mymap);
 
     L.marker([XXX-LATITUDE-XXX, XXX-LONGITUDE-XXX]).addTo(mymap); /* set your location's GPS Coordinates : [LAT,LON] */
-
+    //OSM with params js
+    
     jQuery(document).ready(function () {
         theme.init();
         theme.initMainSlider();
