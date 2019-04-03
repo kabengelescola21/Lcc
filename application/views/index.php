@@ -177,7 +177,7 @@
                                             </span>
                                     <div class="media-body">
                                         <h4 class="media-heading">Date</h4>
-                                        <span>January 17- 19, 2015</span>
+                                        <span>Avril 17- 19, 2019</span>
                                     </div>
                                 </div>
                             </div>
@@ -187,8 +187,8 @@
                                                 <i class="fa fa-map-marker fa-2x"></i>
                                             </span>
                                     <div class="media-body">
-                                        <h4 class="media-heading">Location</h4>
-                                        <span>3200 Barbaros Bulvarı Besiktas/Istanbul, TR</span>
+                                        <h4 class="media-heading">Lieu</h4>
+                                        <span>Hall de l'etoile</span>
                                     </div>
                                 </div>
                             </div>
@@ -198,8 +198,8 @@
                                                 <i class="fa fa-group fa-2x media-object"></i>
                                             </span>
                                     <div class="media-body">
-                                        <h4 class="media-heading">Remaining</h4>
-                                        <span>245 Tickets</span>
+                                        <h4 class="media-heading">places disponibles</h4>
+                                        <span>245 Places</span>
                                     </div>
                                 </div>
                             </div>
@@ -209,8 +209,8 @@
                                                 <i class="fa fa-microphone fa-2x"></i>
                                             </span>
                                     <div class="media-body">
-                                        <h4 class="media-heading">Speakers</h4>
-                                        <span>24 Professional Speakers</span>
+                                        <h4 class="media-heading">Comediens</h4>
+                                        <span>24 Comediens professionnels</span>
                                     </div>
                                 </div>
                             </div>
