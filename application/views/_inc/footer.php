@@ -52,6 +52,7 @@
 <script src="assets/plugins/jquery.cookie.js"></script>
 <script src="assets/js/theme-config-light.js"></script>
 <!--<![endif]-->
+<script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
 
 <script type="text/javascript">
 
