@@ -364,7 +364,7 @@
                         </ul>
                     </div>
                     <div class="tab-content lv1">
-                        <!-- tab1 -->
+                        <!-- tab1
                         <div id="tab-first" class="tab-pane fade in active">
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv21"  class="nav nav-justified">
@@ -374,6 +374,7 @@
                                     <li><a href="#tab-lv21-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
                             </div>
+                            -->
                             <div class="tab-content lv2">
                                 <div id="tab-lv21-first" class="tab-pane fade in active">
                                     <div class="timeline">
@@ -827,7 +828,9 @@
                             </div>
                         </div>
                         <!-- tab2 -->
+                        <!--
                         <div id="tab-second" class="tab-pane fade">
+
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv22"  class="nav nav-justified">
                                     <li class="active"><a href="#tab-lv22-first" data-toggle="tab">HAll A</a></li>
@@ -836,6 +839,7 @@
                                     <li><a href="#tab-lv22-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
                             </div>
+                            -->
                             <div class="tab-content lv2">
                                 <div id="tab-lv22-first" class="tab-pane fade in active">
                                     <div class="timeline">
@@ -1289,7 +1293,9 @@
                             </div>
                         </div>
                         <!-- tab3 -->
+
                         <div id="tab-third" class="tab-pane fade">
+                            <!--
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv23"  class="nav nav-justified">
                                     <li class="active"><a href="#tab-lv23-first" data-toggle="tab">HAll A</a></li>
@@ -1298,6 +1304,7 @@
                                     <li><a href="#tab-lv23-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
                             </div>
+                            -->
                             <div class="tab-content lv2">
                                 <div id="tab-lv23-first" class="tab-pane fade in active">
                                     <div class="timeline">
@@ -1748,7 +1755,7 @@
                                 </div></div>
                             </div>
                         </div>
-                        <!-- tab4 -->
+                        <!-- tab4
                         <div id="tab-last" class="tab-pane fade">
                             <div class="schedule-tabs lv2">
                                 <ul id="tabs-lv24"  class="nav nav-justified">
@@ -1758,6 +1765,7 @@
                                     <li><a href="#tab-lv24-last" data-toggle="tab">HAll D</a></li>
                                 </ul>
                             </div>
+                            -->
                             <div class="tab-content lv2">
                                 <div id="tab-lv24-first" class="tab-pane fade in active">
                                     <div class="timeline">
