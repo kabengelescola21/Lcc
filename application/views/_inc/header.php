@@ -32,6 +32,8 @@
     <link type="text/css" media="screen" rel="stylesheet" href="<?= base_url(); ?>assets/css/awwwards.css" />
     <link rel="stylesheet" href="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css" />
 
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==">
+
     <!--[if lt IE 9]>
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
     <script src="assets/plugins/iesupport/respond.min.js"></script>
