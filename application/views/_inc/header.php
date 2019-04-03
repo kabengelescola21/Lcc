@@ -78,8 +78,8 @@
                     <li><a href="#about">About</a></li>
                     <li><a href="#schedule">Schedule</a></li>
                     <li><a href="#sponsors">Sponsors</a></li>
-                    <li><a href="#speakers">Speakers</a></li>
-                    <li><a href="#price">Price</a></li>
+                    <li><a href="#speakers">Comédiens</a></li>
+                    <li><a href="#price">Prix</a></li>
                     <li><a href="#location">Location</a></li>
                 </ul>
             </nav>

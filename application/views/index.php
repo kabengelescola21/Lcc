@@ -2299,7 +2299,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner">Event Speakers <small> / meet with greaters</small></span>
+                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner">Les comédiens <small> / rencontrer de grands comédiens congolais</small></span>
                 </h1>
 
                 <!-- Speakers row -->
@@ -2327,17 +2327,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédien</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2366,17 +2363,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédien</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2405,17 +2399,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédiens</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2444,17 +2435,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédien</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
