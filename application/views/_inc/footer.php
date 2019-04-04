@@ -13,7 +13,7 @@
                         <li data-animation="flipInY" data-animation-delay="700"><a href="#" class="skype"><i class="fa fa-skype"></i></a></li>
                     </ul>
                 </div>
-                <span class="copyright" data-animation="fadeInUp" data-animation-delay="100">&copy; 2014 im Event &#8212; An One Page Event Manager Theme Designed & Developed By <a href="https://jthemes.com/" target="_blank" title="Top HTML Templates">Jthemes Studio</a></span>
+                <span class="copyright" data-animation="fadeInUp" data-animation-delay="100">&copy; 2019 lcc &#8212; Designed & Developed By <a href="https://itotafrica.com/" target="_blank" title="our site">itotafrica.com</a></span>
             </div>
         </div>
     </footer>
