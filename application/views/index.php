@@ -2501,12 +2501,19 @@
                                         placeholder="Your Phone Number"/>
                             </div>
                         </div>
+                        <div class="col-sm-6 col-md-3">
+                            <div class="form-group" data-animation="fadeInUp" data-animation-delay="600">
+                                <input
+                                        type="text" class="form-control input-phone"
+                                        placeholder="Your Phone Number"/>
+                            </div>
+                        </div>
                         <div class="col-md-12 overflowed">
                             <div class="text-center margin-top">
                                 <button
                                         data-animation="flipInY" data-animation-delay="100"
                                         class="btn btn-theme btn-theme-xl submit-button" type="submit"
-                                        > Register Now <i class="fa fa-arrow-circle-right"></i></button>
+                                        > Reservez maintenant <i class="fa fa-arrow-circle-right"></i></button>
                             </div>
                         </div>
                     </div>
