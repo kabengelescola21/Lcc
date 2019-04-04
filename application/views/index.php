@@ -2369,7 +2369,7 @@
                 <!-- /Speakers row -->
 
                 <div class="text-center margin-top">
-                    <a data-animation="fadeInUp" data-animation-delay="100" href="#" class="btn btn-theme"><i class="fa fa-user"></i> See all speakers</a>
+                    <a data-animation="fadeInUp" data-animation-delay="100" href="#" class="btn btn-theme"><i class="fa fa-user"></i> Voir tout le comedien</a>
                 </div>
             </div>
         </section>
@@ -2526,21 +2526,20 @@
                     <div class="col-md-8 pull-left">
                         <h1 class="section-title">
                             <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-question fa-stack-1x"></i></span></span>
-                            <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Event FAQS <small> / find your answers</small></span>
+                            <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Question sur l'evenement <small> / Posez une question</small></span>
                         </h1>
                     </div>
                     <div class="col-md-4 text-right-md pull-right">
                         <a href="#" class="btn btn-theme btn-theme-lg btn-theme-transparent-grey pull-right"
-                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Open a ticket</a>
+                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Ouvrir le ticket</a>
                     </div>
                 </div>
                 <div class="row faq margin-top" data-animation="fadeInUp" data-animation-delay="100">
                     <div class="col-sm-6 col-md-6 pull-left">
                         <ul id="tabs-faq"  class="nav">
-                            <li class="active"><a href="#tab-faq1" data-toggle="tab"><i class="fa fa-angle-right"></i> <span class="faq-inner">How to Change Event Date</span></a></li>
-                            <li><a href="#tab-faq2" data-toggle="tab"><i class="fa fa-plus"></i> <span class="faq-inner">How to make  New Event ?</span></a></li>
-                            <li><a href="#tab-faq3" data-toggle="tab"><i class="fa fa-plus"></i> <span class="faq-inner">How to Set Price ?</span></a></li>
-                            <li><a href="#tab-faq4" data-toggle="tab"><i class="fa fa-plus"></i> <span class="faq-inner">How to Delete Old Events ?</span></a></li>
+                            <li class="active"><a href="#tab-faq1" data-toggle="tab"><i class="fa fa-angle-right"></i> <span class="faq-inner">Annuler votre reservation</span></a></li>
+                            <li><a href="#tab-faq2" data-toggle="tab"><i class="fa fa-plus"></i> <span class="faq-inner">Vous avez une question ?</span></a></li>
+                            
                         </ul>
                     </div>
                     <div class="col-sm-6 col-md-6 pull-right">
