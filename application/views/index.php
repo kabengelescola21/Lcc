@@ -2864,10 +2864,7 @@
                 <!-- Google map -->
                 <div class="google-map">
                     <!--div id="map-canvas"></div-->
-
-                    <!--div id="my_osm_widget_map"></div-->
                     <div id="map"></div>
-                    <!--iframe style="border: 1px solid black" width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="map"></iframe-->
                 </div>
                 <!--/Google map-->
 
