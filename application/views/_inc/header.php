@@ -109,7 +109,6 @@
                     <li><a href="#speakers">Comédiens</a></li>
                     <li><a href="#price">Prix</a></li>
                     <li><a href="#location">Localisation</a></li>
-
                 </ul>
             </nav>
             <!-- /Navigation -->
