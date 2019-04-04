@@ -43,14 +43,12 @@
 <script src="assets/plugins/countdown/jquery.plugin.min.js"></script>
 <script src="assets/plugins/countdown/jquery.countdown.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-
 <script src="assets/js/theme-ajax-mail.js"></script>
 <script src="assets/js/theme.js"></script>
 <script src="assets/js/custom.js"></script>
 
 <!--[if (gte IE 9)|!(IE)]><!-->
 <script src="assets/plugins/jquery.cookie.js"></script>
-<script src="assets/js/theme-config-light.js"></script>
 <!--<![endif]-->
 <script src="https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
 
