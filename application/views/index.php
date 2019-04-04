@@ -5,151 +5,69 @@
         <div id="main">
         <!-- SLIDER -->
         <section class="page-section no-padding background-img-slider">
+            <!-- home (slide)-->
             <div class="container">
+                <div id="main-slider" class="owl-carousel owl-theme">
 
-            <div id="main-slider" class="owl-carousel owl-theme">
-
-                <!-- Slide -->
-                <div class="item page text-center slide0">
-                    <div class="caption">
+                    <!-- Slide -->
+                    <div class="item page text-center slide0">
+                        <div class="caption">
+                            <div class="container">
+                                <div class="div-table">
+                                    <div class="div-cell">
+                                    <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>Avril 17-19, 2019</span></h2>
+                                    <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">Semaine du rire</h3>
+                                        <div class="countdown-wrapper">
+                                            <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
+                                        </div>
+                                        <p class="caption-text">
+                                            <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Reserver <i class="fa fa-arrow-circle-right"></i></a>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Slide -->
+                    <div class="item page text-center slide1">
+                        <div class="caption">
                         <div class="container">
                             <div class="div-table">
-                                <div class="div-cell">
-                                    <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2015</span></h2>
-                                    <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
-                                    <div class="countdown-wrapper">
-                                        <div id="defaultCountdown" class="defaultCountdown clearfix"></div>
-                                    </div>
-                                    <p class="caption-text">
-                                        <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a>
-                                    </p>
-                                </div>
+                            <div class="div-cell">
+                                <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>Avril 17-19, 2019</span></h2>
+                                <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">Semaine du rire</h3>
+                                <p class="caption-text">
+                                    <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Reserver <i class="fa fa-arrow-circle-right"></i></a><!--
+                                    --><a class="btn btn-theme btn-theme-xl btn-theme-transparent-white" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto" data-animation="flipInY" data-animation-delay="900">Video</a>
+                                </p>
+                            </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-
-                <!-- Slide -->
-                <div class="item page text-center slide1">
-                    <div class="caption">
-                    <div class="container">
-                        <div class="div-table">
-                        <div class="div-cell">
-                            <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>January 17-19, 2015</span></h2>
-                            <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">PHP Conference ın Istanbul</h3>
-                            <p class="caption-text">
-                                <a class="btn btn-theme btn-theme-xl scroll-to" href="#register" data-animation="flipInY" data-animation-delay="600"> Register <i class="fa fa-arrow-circle-right"></i></a><!--
-                                --><a class="btn btn-theme btn-theme-xl btn-theme-transparent-white" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto" data-animation="flipInY" data-animation-delay="900">Watch video</a>
-                            </p>
-                        </div>
                         </div>
                     </div>
-                    </div>
-                </div>
 
-                <!-- Slide -->
-                <div class="item page slide2">
-                    <div class="caption">
-                    <div class="container">
-                        <div class="div-table">
-                        <div class="div-cell">
-                            <div class="row">
-                                <div class="col-md-6 col-lg-4">
-                                    <div class="form-background">
-                                    <div class="form-header color">
-                                        <h1 class="section-title">
-                                            <span class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                                            <span class="title-inner">Event Register</span>
-                                        </h1>
-                                    </div>
-
-                                    <form id="registration-form-alt" name="registration-form-alt" class="registration-form alt" action="#" method="post">
-                                        <div class="row">
-                                            <div class="col-sm-12 form-alert"></div>
-                                            <div class="col-sm-12">
-                                                <div class="form-group">
-                                                    <input
-                                                            type="text" class="form-control input-name"
-                                                            data-toggle="tooltip" title="Name is required"
-                                                            placeholder="Name and Surname"/>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-12">
-                                                <div class="form-group">
-                                                    <input
-                                                            type="text" class="form-control input-email"
-                                                            data-toggle="tooltip" title="Mail is required"
-                                                            placeholder="Your Mail Here"/>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-12">
-                                                <div class="form-group">
-                                                    <input
-                                                            type="text" class="form-control input-phone"
-                                                            placeholder="Your Phone Number"/>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-12">
-                                                <div class="form-group selectpicker-wrapper">
-                                                    <select
-                                                            class="selectpicker input-price" data-live-search="false" data-width="100%"
-                                                            data-toggle="tooltip" title="Select Your Price Tab">
-                                                        <option>Select Your Price Tab</option>
-                                                        <option>$100</option>
-                                                        <option>$200</option>
-                                                    </select>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-12">
-                                                <div class="text-center">
-                                                    <button
-                                                            data-animation="flipInY" data-animation-delay="100"
-                                                            class="btn btn-theme btn-block submit-button" type="submit"
-                                                            > Register Now <i class="fa fa-arrow-circle-right"></i></button>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </form>
-
-                                    </div>
-                                </div>
-                                <div class="col-md-6 col-lg-8">
-                                    <div class="text-holder">
-                                    <h2 class="caption-title">January 17-19, 2015</h2>
-                                    <h3 class="caption-subtitle">PHP Conference ın ıstanbul </h3>
-                                    </div>
-                                </div>
+                   
+                    <!-- Slide -->
+                    <div class="item page text-center slide3">
+                        <div class="caption">
+                        <div class="container">
+                            <div class="div-table">
+                            <div class="div-cell">
+                            <h2 class="caption-title" data-animation="fadeInDown" data-animation-delay="100"><span>Avril 17-19, 2019</span></h2>
+                                <h3 class="caption-subtitle" data-animation="fadeInUp" data-animation-delay="300">Semaine du rire</h3>
+                                <p class="caption-text">
+                                    <a class="btn btn-play" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto"><i class="fa fa-play"></i></a>
+                                </p>
+                                <!-- Event description -->
+                                <!-- /Event description -->
                             </div>
-                            <!-- Event description -->
-                            <!-- /Event description -->
+                            </div>
                         </div>
                         </div>
-                    </div>
                     </div>
                 </div>
-
-                <!-- Slide -->
-                <div class="item page text-center slide3">
-                    <div class="caption">
-                    <div class="container">
-                        <div class="div-table">
-                        <div class="div-cell">
-                            <h2 class="caption-title"><span>January 17-19, 2015</span></h2>
-                            <h3 class="caption-subtitle">PHP Conference ın Istanbul</h3>
-                            <p class="caption-text">
-                                <a class="btn btn-play" href="http://www.youtube.com/watch?v=O-zpOMYRi0w" data-gal="prettyPhoto"><i class="fa fa-play"></i></a>
-                            </p>
-                            <!-- Event description -->
-                            <!-- /Event description -->
-                        </div>
-                        </div>
-                    </div>
-                    </div>
-                </div>
-
             </div>
-            </div>
-
+            <!-- end home(slide)-->
             <!-- Event description -->
             <div class="event-description">
                 <div class="container">
@@ -164,7 +82,7 @@
                                             </span>
                                     <div class="media-body">
                                         <h4 class="media-heading">Date</h4>
-                                        <span>January 17- 19, 2015</span>
+                                        <span>Avril 17- 19, 2019</span>
                                     </div>
                                 </div>
                             </div>
@@ -174,8 +92,8 @@
                                                 <i class="fa fa-map-marker fa-2x"></i>
                                             </span>
                                     <div class="media-body">
-                                        <h4 class="media-heading">Location</h4>
-                                        <span>3200 Barbaros Bulvarı Besiktas/Istanbul, TR</span>
+                                        <h4 class="media-heading">Lieu</h4>
+                                        <span>Hall de l'etoile</span>
                                     </div>
                                 </div>
                             </div>
@@ -185,8 +103,8 @@
                                                 <i class="fa fa-group fa-2x media-object"></i>
                                             </span>
                                     <div class="media-body">
-                                        <h4 class="media-heading">Remaining</h4>
-                                        <span>245 Tickets</span>
+                                        <h4 class="media-heading">places disponibles</h4>
+                                        <span>240 Places</span>
                                     </div>
                                 </div>
                             </div>
@@ -196,8 +114,8 @@
                                                 <i class="fa fa-microphone fa-2x"></i>
                                             </span>
                                     <div class="media-body">
-                                        <h4 class="media-heading">Speakers</h4>
-                                        <span>24 Professional Speakers</span>
+                                        <h4 class="media-heading">Comediens</h4>
+                                        <span>24 Comediens professionnels</span>
                                     </div>
                                 </div>
                             </div>
@@ -218,7 +136,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-star fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">What's about event <small>/ whats going on there come and learn</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">A Propos de l'Evenement</span>
                 </h1>
                 <div class="row">
                     <div class="col-lg-8">
@@ -228,8 +146,8 @@
                             leo quis, facilisis metus. Sed pellentesque, urna sed varius consectetur, eros augue fringilla
                             magna, id sem magna vel diam. Nulla sed hendrerit nunc.</p>
                         <p class="btn-row">
-                            <a href="#register" class="btn btn-theme btn-theme-xl scroll-to" data-animation="flipInY" data-animation-delay="200">Register <i class="fa fa-arrow-circle-right"></i></a><!--
-                            --><a href="#" class="btn btn-theme btn-theme-xl btn-theme-transparent" data-animation="flipInY" data-animation-delay="400">Watch video</a>
+                            <a href="#register" class="btn btn-theme btn-theme-xl scroll-to" data-animation="flipInY" data-animation-delay="200">reserver <i class="fa fa-arrow-circle-right"></i></a><!--
+                            --><a href="#" class="btn btn-theme btn-theme-xl btn-theme-transparent" data-animation="flipInY" data-animation-delay="400">Video</a>
                         </p>
                     </div>
                     <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 pull-left">
@@ -2273,7 +2191,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner">Event Speakers <small> / meet with greaters</small></span>
+                    <span data-animation="fadeInUp" data-animation-delay="500" class="title-inner">Les comédiens <small> / rencontrer de grands comédiens congolais</small></span>
                 </h1>
 
                 <!-- Speakers row -->
@@ -2301,17 +2219,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédien</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2340,17 +2255,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédien</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2379,17 +2291,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédiens</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2418,17 +2327,14 @@
                                 </div>
                             </div>
                             <div class="caption before-media">
-                                <h3 class="caption-title">Speaker name here</h3>
-                                <p class="caption-category">Co Founder</p>
+                                <h3 class="caption-title">Nom du comédien</h3>
+                                <p class="caption-category">Nom du Groupe</p>
                             </div>
                             <div class="caption">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
                                 <ul class="social-line list-inline text-center">
                                     <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="twitter"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#" class="google"><i class="fa fa-google-plus"></i></a></li>
-                                    <li><a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#" class="instagram"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2448,26 +2354,32 @@
             <div class="container">
                 <h1 class="section-title clearfix">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-user fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Event Price list <small> / perfect price for event</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Liste de prix de l'evenement <small> / le prix parfait pour un evement</small></span>
                 </h1>
                 <div class="row price-tables">
                     <div class="col-xsp-6 col-sm-6 col-md-6 col-lg-4">
                         <div class="price-table" data-animation="fadeInUp" data-animation-delay="100">
                             <div class="price-table-header">
                                 <div class="price-label">
-                                    <h2 class="price-label-title">Personal</h2>
+                                    <h2 class="price-label-title">Normale</h2>
                                 </div>
                                 <div class="price-value">
                                     <span class="price-number">111</span><span class="price-unit">$</span><span class="price-per"></span>
                                 </div>
                             </div>
-                            <div class="price-table-rows">
-                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Lorem ipsum dolor sit amet</div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Consectetur adipiscing elit</div>
-                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Sed vitae diam metus</div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Donec cursus magna</div>
+                            <div class="form-group row">
+                                <div class="price-table-rows">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 1</label>
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 2</label>
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 3</label>
+                                    </div>
+                                </div>
                                 <div class="price-table-row-bottom">
-                                    <a class="btn btn-theme scroll-to" href="#register">Register</a>
+                                    <a class="btn btn-theme scroll-to" href="#register">Reserver</a>
                                 </div>
                             </div>
                         </div>
@@ -2476,19 +2388,25 @@
                         <div class="price-table featured" data-animation="fadeInUp" data-animation-delay="200">
                             <div class="price-table-header">
                                 <div class="price-label">
-                                    <h2 class="price-label-title">Company</h2>
+                                    <h2 class="price-label-title">V.I.P</h2>
                                 </div>
                                 <div class="price-value">
-                                    <span class="price-number">124</span><span class="price-unit">$</span><span class="price-per"></span>
+                                    <span class="price-number">175</span><span class="price-unit">$</span><span class="price-per"></span>
                                 </div>
                             </div>
-                            <div class="price-table-rows">
-                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Lorem ipsum dolor sit amet</div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Consectetur adipiscing elit</div>
-                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Sed vitae diam metus</div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Donec cursus magna</div>
+                            <div class="form-group row">
+                                <div class="price-table-rows">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 1</label>
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 2</label>
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 3</label>
+                                    </div>
+                                </div>
                                 <div class="price-table-row-bottom">
-                                    <a class="btn btn-theme scroll-to" href="#register">Register</a>
+                                    <a class="btn btn-theme scroll-to" href="#register">Reserver</a>
                                 </div>
                             </div>
                         </div>
@@ -2497,19 +2415,25 @@
                         <div class="price-table" data-animation="fadeInUp" data-animation-delay="300">
                             <div class="price-table-header">
                                 <div class="price-label">
-                                    <h2 class="price-label-title">Business</h2>
+                                    <h2 class="price-label-title">Ordinaire</h2>
                                 </div>
                                 <div class="price-value">
-                                    <span class="price-number">175</span><span class="price-unit">$</span><span class="price-per"></span>
+                                    <span class="price-number">124</span><span class="price-unit">$</span><span class="price-per"></span>
                                 </div>
                             </div>
-                            <div class="price-table-rows">
-                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Lorem ipsum dolor sit amet</div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Consectetur adipiscing elit</div>
-                                <div class="price-table-row"><i class="fa fa-check-circle-o"></i> Sed vitae diam metus</div>
-                                <div class="price-table-row odd"><i class="fa fa-check-circle-o"></i> Donec cursus magna</div>
+                            <div class="form-group row">
+                                <div class="price-table-rows">
+                                    <div class="form-check">
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 1</label>
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 2</label>
+                                        <input class="form-check-input" type="checkbox" id="gridCheck1">
+                                        <label class="form-check-label" for="gridCheck1">place 3</label>
+                                    </div>
+                                </div>
                                 <div class="price-table-row-bottom">
-                                    <a class="btn btn-theme scroll-to" href="#register">Register</a>
+                                    <a class="btn btn-theme scroll-to" href="#register">Reserver</a>
                                 </div>
                             </div>
                         </div>
@@ -2523,7 +2447,7 @@
             <div class="container">
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Register now <small> / dont mıss event!</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Reservez maintenant <small> / Ne ratez pas cet evenement!</small></span>
                 </h1>
                 <form id="registration-form" name="registration-form" class="registration-form" action="#" method="post">
                     <div class="row">
@@ -2552,14 +2476,10 @@
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-3">
-                            <div class="form-group selectpicker-wrapper" data-animation="fadeInUp" data-animation-delay="800">
-                                <select
-                                        class="selectpicker input-price" data-live-search="false" data-width="100%"
-                                        data-toggle="tooltip" title="Select Your Price Tab">
-                                    <option>Select Your Price Tab</option>
-                                    <option>$100</option>
-                                    <option>$200</option>
-                                </select>
+                            <div class="form-group" data-animation="fadeInUp" data-animation-delay="600">
+                                <input
+                                        type="text" class="form-control input-phone"
+                                        placeholder="Your Phone Number"/>
                             </div>
                         </div>
                         <div class="col-md-12 overflowed">
@@ -2567,7 +2487,7 @@
                                 <button
                                         data-animation="flipInY" data-animation-delay="100"
                                         class="btn btn-theme btn-theme-xl submit-button" type="submit"
-                                        > Register Now <i class="fa fa-arrow-circle-right"></i></button>
+                                        > Reservez maintenant <i class="fa fa-arrow-circle-right"></i></button>
                             </div>
                         </div>
                     </div>
@@ -2823,24 +2743,24 @@
                     <div class="on-gmap color">
                         <h1 class="section-title">
                             <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                            <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Event Location</span>
+                            <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Localiser un evenement</span>
                         </h1>
-                        <p data-animation="fadeInUp" data-animation-delay="200" class="text-uppercase">Apple Store SOHO‎ <br/>
-                            103 Prince St New York, <br/>
-                            NY 10012, United States <br/>
-                            +1 212-226-3126</p>
-                        <p><a href="mailto:youremail@domain.com">hello@imevent.com</a></p>
+                        <p data-animation="fadeInUp" data-animation-delay="200" class="text-uppercase">Soirée du rire <br/>
+                            103,Mwepu<br/>
+                            +243 99 </p>
+                        <p><a href="mailto:youremail@domain.com">itot-africa.com</a></p>
                         <a href="#" class="btn btn-theme"
-                           data-animation="flipInY" data-animation-delay="300">Get Direction <i class="fa fa-arrow-circle-right"></i></a>
+                           data-animation="flipInY" data-animation-delay="300">Obtenir la Direction <i class="fa fa-arrow-circle-right"></i></a>
                     </div>
                 </div>
 
+                
                 <!-- Google map -->
                 <div class="google-map">
-                    <div id="map-canvas"></div>
+                    <!--div id="map-canvas"></div-->
+                    <div id="map"></div>
                 </div>
-                <!-- /Google map -->
-
+                <!--/Google map-->
             </div>
         </section>
         <!-- /PAGE LOCATION -->
@@ -2900,4 +2820,3 @@
     </div>
     <!-- /Content area -->
 
-    
