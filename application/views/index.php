@@ -2739,7 +2739,7 @@
         <section class="page-section" id="location">
             <div class="container full-width gmap-background">
 
-                <div class="container">
+                <!--div class="container">
                     <div class="on-gmap color">
                         <h1 class="section-title">
                             <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
@@ -2751,7 +2751,7 @@
                         <p><a href="mailto:youremail@domain.com">itot-africa.com</a></p>
                         <a href="#" class="btn btn-theme"
                            data-animation="flipInY" data-animation-delay="300">Obtenir la Direction <i class="fa fa-arrow-circle-right"></i></a>
-                    </div>
+                    </div-->
                 </div>
 
                 
@@ -2771,7 +2771,7 @@
 
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Contact Us <small>/ lorem ipsum</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Contactez-nous<small>/ lorem ipsum</small></span>
                 </h1>
 
                 <!-- Contact form -->
