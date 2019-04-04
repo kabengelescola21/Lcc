@@ -97,7 +97,6 @@
                 </a>
             </div>
             <!-- /Logo -->
-
             <!-- Navigation -->
             <div id="mobile-menu"></div>
             <nav class="navigation closed clearfix">
