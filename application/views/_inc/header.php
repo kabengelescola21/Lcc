@@ -58,7 +58,7 @@
 	<style type="text/css">
 		#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
 			height:100%;
-		}
+        }
 	</style>
     <!--[if lt IE 9]>
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
