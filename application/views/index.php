@@ -2420,7 +2420,7 @@
                     </div>
                     <div class="col-md-4 text-right-md pull-right">
                         <a href="#" class="btn btn-theme btn-theme-lg btn-theme-transparent-grey pull-right"
-                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Open a ticket</a>
+                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Voir Votre ticket</a>
                     </div>
                 </div>
             </div>
