@@ -2127,91 +2127,6 @@
         </section>
         <!-- /PAGE SPONSORS -->
 
-        <section class="page-section color">
-            <div class="container">
-                <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-comments fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Testimonials <small> / See What People Say About Us</small></span>
-                </h1>
-
-                <!-- Testimonials -->
-                <div id="testimonials" class="owl-carousel testimonials" data-animation="fadeInUp" data-animation-delay="100">
-
-                    <div class="media testimonial">
-                        <div class="media-object pull-right" data-animation="flipInY" data-animation-delay="300">
-                            <div class="hex testimonial-avatar">
-                                <div class="hex-deg">
-                                    <div class="hex-deg">
-                                        <div class="hex-deg">
-                                            <div class="hex-inner">
-                                                <img class="img-responsive" src="assets/img/preview/avatar-1.jpg" alt=""/>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec
-                                cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper
-                                tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis
-                                in feugiat mollis, libero eros</p>
-                            <h4 class="media-heading">by jThemes Studio</h4>
-                        </div>
-                    </div>
-
-                    <div class="media testimonial">
-                        <div class="media-object pull-right" data-animation="flipInY" data-animation-delay="300">
-                            <div class="hex testimonial-avatar">
-                                <div class="hex-deg">
-                                    <div class="hex-deg">
-                                        <div class="hex-deg">
-                                            <div class="hex-inner">
-                                                <img class="img-responsive" src="assets/img/preview/avatar-2.jpg" alt=""/>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec
-                                cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper
-                                tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis
-                                in feugiat mollis, libero eros</p>
-                            <h4 class="media-heading">by jThemes Studio</h4>
-                        </div>
-                    </div>
-
-                    <div class="media testimonial">
-                        <div class="media-object pull-right" data-animation="flipInY" data-animation-delay="300">
-                            <div class="hex testimonial-avatar">
-                                <div class="hex-deg">
-                                    <div class="hex-deg">
-                                        <div class="hex-deg">
-                                            <div class="hex-inner">
-                                                <img class="img-responsive" src="assets/img/preview/avatar-3.jpg" alt=""/>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="media-body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae diam metus. Donec
-                                cursus magna eget sem convallis facilisis. Vestibulum dictum nibh at ullamcorper
-                                tincidunt. Phasellus scelerisque nisl non ullamcorper pellentesque. Nunc sagittis, felis
-                                in feugiat mollis, libero eros</p>
-                            <h4 class="media-heading">by jThemes Studio</h4>
-                        </div>
-                    </div>
-
-                </div>
-                <!-- Testimonials -->
-
-            </div>
-        </section>
-
         <!-- PAGE SPEAKERS -->
         <section class="page-section light" id="speakers">
             <div class="container">
@@ -2584,136 +2499,30 @@
                         </h1>
                     </div>
                     <div class="col-md-4 text-right-md pull-right">
-                        <a href="#" class="btn btn-theme btn-theme-lg btn-theme-transparent-grey pull-right"
-                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Ouvrir le ticket</a>
-                    </div>
-                </div>
-                <div class="row faq margin-top" data-animation="fadeInUp" data-animation-delay="100">
-                    <div class="col-sm-6 col-md-6 pull-left">
-                        <ul id="tabs-faq"  class="nav">
-                            <li class="active"><a href="#tab-faq1" data-toggle="tab"><i class="fa fa-angle-right"></i> <span class="faq-inner">Annuler votre reservation</span></a></li>
-                            <li><a href="#tab-faq2" data-toggle="tab"><i class="fa fa-plus"></i> <span class="faq-inner">Vous avez une question ?</span></a></li>
-                            
-                        </ul>
-                    </div>
-                    <div class="col-sm-6 col-md-6 pull-right">
-                        <div class="tab-content">
-                            <div id="tab-faq1" class="tab-pane fade in active">
-                                <div>
-                                    <p>Vestibulum sit amet tincidunt urna, eget ullamcorper purus. Aenean feugiat quis
-                                        tortor vitae fringilla. Pellentesque augue nisl, condimentum at sem et,
-                                        fermentum varius ligula. Nulla dignissim nulla eget congue cursus. </p>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-faq2" class="tab-pane fade">
-                                <div>
-                                    <p>Vestibulum sit amet tincidunt urna, eget ullamcorper purus. Aenean feugiat quis
-                                        tortor vitae fringilla. Pellentesque augue nisl, condimentum at sem et,
-                                        fermentum varius ligula. Nulla dignissim nulla eget congue cursus. </p>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-faq3" class="tab-pane fade">
-                                <div>
-                                    <p>Vestibulum sit amet tincidunt urna, eget ullamcorper purus. Aenean feugiat quis
-                                        tortor vitae fringilla. Pellentesque augue nisl, condimentum at sem et,
-                                        fermentum varius ligula. Nulla dignissim nulla eget congue cursus. </p>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-faq4" class="tab-pane fade">
-                                <div>
-                                    <p>Vestibulum sit amet tincidunt urna, eget ullamcorper purus. Aenean feugiat quis
-                                        tortor vitae fringilla. Pellentesque augue nisl, condimentum at sem et,
-                                        fermentum varius ligula. Nulla dignissim nulla eget congue cursus. </p>
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                            <p><i class="fa fa-check-circle-o"></i> First Awesome Feature</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        <a href="#" class="btn btn-theme btn-theme-lg btn-theme-transparent-grey pull-right"<<<<<<< simon
+                           data-animation="flipInY" data-animation-delay="700"><i class="fa fa-pencil"></i> Voir Votre ticket</a>
                     </div>
                 </div>
             </div>
         </section>
         <!-- PAGE LOCATION -->
         <section class="page-section" id="location">
-            <div class="container full-width gmap-background">
-
-                <div class="container">
-                    <div class="on-gmap color">
-                        <h1 class="section-title">
-                            <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                            <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Localiser un evenement</span>
-                        </h1>
-                        <p data-animation="fadeInUp" data-animation-delay="200" class="text-uppercase">Soirée du rire <br/>
-                            103,Mwepu<br/>
-                            +243 99 </p>
-                        <p><a href="mailto:youremail@domain.com">itot-africa.com</a></p>
-                        <a href="#" class="btn btn-theme"
-                           data-animation="flipInY" data-animation-delay="300">Obtenir la Direction <i class="fa fa-arrow-circle-right"></i></a>
-                    </div>
-                </div>
-
-                
                 <!-- Google map -->
                 <div class="google-map">
                     <!--div id="map-canvas"></div-->
                     <div id="map"></div>
                 </div>
                 <!--/Google map-->
-            </div>
         </section>
         <!-- /PAGE LOCATION -->
 
         <!-- PAGE CONTACT -->
-        <section class="page-section color">
+        <section class="page-section color contactez-nous">
             <div class="container">
 
                 <h1 class="section-title">
                     <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Contact Us <small>/ lorem ipsum</small></span>
+                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Contactez-nous<small></small></span><br>
                 </h1>
 
                 <!-- Contact form -->
@@ -2722,7 +2531,7 @@
                     <div class="col-sm-12 af-outer af-required">
                         <div class="form-group af-inner">
                             <input
-                                    type="text" name="name" id="name" placeholder="Type Your Name..." value="" size="30"
+                                    type="text" name="name" id="name" placeholder="Votre nom" value="" size="30"
                                     data-toggle="tooltip" title="Name is required"
                                     class="form-control placeholder"/>
                         </div>
@@ -2731,7 +2540,7 @@
                     <div class="col-sm-12 af-outer af-required">
                         <div class="form-group af-inner">
                             <input
-                                    type="text" name="email" id="email" placeholder="Type Your Email..." value="" size="30"
+                                    type="text" name="email" id="email" placeholder="Votre email" value="" size="30"
                                     data-toggle="tooltip" title="Email is required"
                                     class="form-control placeholder"/>
                         </div>
@@ -2740,7 +2549,7 @@
                     <div class="col-sm-12 af-outer af-required">
                         <div class="form-group af-inner">
                             <textarea
-                                    name="message" id="input-message" placeholder="Type Your Message..." rows="4" cols="50"
+                                    name="message" id="input-message" placeholder="Votre message" rows="4" cols="50"
                                     data-toggle="tooltip" title="Message is required"
                                     class="form-control placeholder"></textarea>
                         </div>
@@ -2748,7 +2557,7 @@
 
                     <div class="col-sm-12 af-outer af-required text-center">
                         <div class="form-group af-inner">
-                            <input type="submit" name="submit" class="form-button form-button-submit btn btn-theme btn-theme-lg btn-theme-transparent" id="submit_btn" value="Send message" />
+                            <input type="submit" name="submit" class="form-button form-button-submit btn btn-theme btn-theme-lg btn-theme-transparent" id="submit_btn" value="Envoyer" />
                         </div>
                     </div>
 
