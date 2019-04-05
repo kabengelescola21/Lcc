@@ -58,7 +58,7 @@
 	<style type="text/css">
 		#map{ /* la carte DOIT avoir une hauteur sinon elle n'apparaît pas */
 			height:100%;
-		}
+        }
 	</style>
     <!--[if lt IE 9]>
     <script src="assets/plugins/iesupport/html5shiv.js"></script>
@@ -103,12 +103,12 @@
                 <a href="#" class="menu-toggle btn"><i class="fa fa-bars"></i></a>
                 <ul class="sf-menu nav">
                     <li class="active"><a href="#home">Acceuil</a></li>
-                    <li><a href="#about">A propos</a></li>
                     <li><a href="#schedule">Horraires</a></li>
                     <li><a href="#sponsors">Sponsors</a></li>
                     <li><a href="#speakers">Comédiens</a></li>
                     <li><a href="#price">Prix</a></li>
                     <li><a href="#location">Localisation</a></li>
+                    <li><a href="#about">A propos</a></li>
                 </ul>
             </nav>
             <!-- /Navigation -->
