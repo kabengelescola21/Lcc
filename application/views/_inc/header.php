@@ -104,10 +104,10 @@
                 <ul class="sf-menu nav">
                     <li class="active"><a href="#home">Acceuil</a></li>
                     <li><a href="#schedule">Horraires</a></li>
-                    <li><a href="#sponsors">Sponsors</a></li>
                     <li><a href="#speakers">Comédiens</a></li>
                     <li><a href="#price">Prix</a></li>
                     <li><a href="#location">Localisation</a></li>
+                    <li><a href="#sponsors">Sponsors</a></li>
                     <li><a href="#about">A propos</a></li>
                 </ul>
             </nav>
