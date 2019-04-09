@@ -28,6 +28,7 @@
     <link href="<?= base_url(); ?>assets/css/theme.css" rel="stylesheet">
     <link href="<?= base_url(); ?>assets/css/theme-red-1.css" rel="stylesheet" id="theme-config-link">
     <link href="<?= base_url(); ?>assets/css/custom.css" rel="stylesheet">
+    <link href="<?= base_url(); ?>assets/css/style.css" rel="stylesheet">
 
     <link type="text/css" media="screen" rel="stylesheet" href="<?= base_url(); ?>assets/css/awwwards.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ==" crossorigin="" />

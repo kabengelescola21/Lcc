@@ -2074,19 +2074,18 @@
                 </h1>
                 <div class="partners-carousel" data-animation="fadeInUp" data-animation-delay="300">
                     <div class="owl-carousel">
-                        <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
-                        <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
-                    </div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
                 </div>
                 <div class="text-center margin-top">
                     <a data-animation="flipInY" data-animation-delay="500" href="#" class="btn btn-theme"><i class="fa fa-thumbs-up"></i> Devenir sponsors</a>
@@ -2094,6 +2093,9 @@
             </div>
         </section>
         <!-- /PAGE SPONSORS -->
+        <!-- PAGE COMEDIENS -->
+        
+        <!-- PAGE COMEDIENS -->
 
         <!-- PAGE SPEAKERS -->
         <section class="page-section light" id="speakers">
@@ -2104,56 +2106,58 @@
                 </h1>
 
                 <!-- Speakers row -->
-                <div class="row thumbnails clear">
-                    <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="100">
-                        <div class="thumbnail no-border no-padding text-center">
-                            <div class="hex">
-                                <div class="hex-deg">
-                                <div class="hex-deg">
-                                <div class="hex-deg">
-                                    <div class="hex-inner">
-                                        <div class="media">
-                                            <img src="assets/img/preview/speaker-1.jpg" alt="">
-                                            <div class="caption hovered">
-                                                <div class="caption-wrapper div-table">
-                                                    <div class="caption-inner div-cell">
-                                                        <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                <div class="partners-carousel" data-animation="fadeInUp" data-animation-delay="300">
+                    <div class="owl-carousel">
+                        <div  data-animation="fadeInUp" data-animation-delay="100">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
+                                    <div class="hex-deg">
+                                    <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-inner">
+                                            <div class="media">
+                                                <img src="assets/img/preview/speaker-1.jpg" alt="">
+                                                <div class="caption hovered">
+                                                    <div class="caption-wrapper div-table">
+                                                        <div class="caption-inner div-cell">
+                                                            <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+                                    </div>
+                                    </div>
                                 </div>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédien</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
                                 </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
                                 </div>
-                            </div>
-                            <div class="caption before-media">
-                                <h3 class="caption-title">Nom du comédien</h3>
-                                <p class="caption-category">Nom du Groupe</p>
-                            </div>
-                            <div class="caption">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line list-inline text-center">
-                                    <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                                </ul>
                             </div>
                         </div>
-                    </div>
-                    <!-- -->
-                    <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="300">
-                        <div class="thumbnail no-border no-padding text-center">
-                            <div class="hex">
-                                <div class="hex-deg">
+                        <!-- -->
+                        <div data-animation="fadeInUp" data-animation-delay="300">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
                                     <div class="hex-deg">
                                         <div class="hex-deg">
-                                            <div class="hex-inner">
-                                                <div class="media">
-                                                    <img src="assets/img/preview/speaker-2.jpg" alt="">
-                                                    <div class="caption hovered">
-                                                        <div class="caption-wrapper div-table">
-                                                            <div class="caption-inner div-cell">
-                                                                <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                            <div class="hex-deg">
+                                                <div class="hex-inner">
+                                                    <div class="media">
+                                                        <img src="assets/img/preview/speaker-2.jpg" alt="">
+                                                        <div class="caption hovered">
+                                                            <div class="caption-wrapper div-table">
+                                                                <div class="caption-inner div-cell">
+                                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2162,34 +2166,34 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="caption before-media">
-                                <h3 class="caption-title">Nom du comédien</h3>
-                                <p class="caption-category">Nom du Groupe</p>
-                            </div>
-                            <div class="caption">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line list-inline text-center">
-                                    <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                                </ul>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédien</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
+                                </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- -->
-                    <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="500">
-                        <div class="thumbnail no-border no-padding text-center">
-                            <div class="hex">
-                                <div class="hex-deg">
+                        <!-- -->
+                        <div data-animation="fadeInUp" data-animation-delay="500">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
                                     <div class="hex-deg">
                                         <div class="hex-deg">
-                                            <div class="hex-inner">
-                                                <div class="media">
-                                                    <img src="assets/img/preview/speaker-3.jpg" alt="">
-                                                    <div class="caption hovered">
-                                                        <div class="caption-wrapper div-table">
-                                                            <div class="caption-inner div-cell">
-                                                                <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                            <div class="hex-deg">
+                                                <div class="hex-inner">
+                                                    <div class="media">
+                                                        <img src="assets/img/preview/speaker-3.jpg" alt="">
+                                                        <div class="caption hovered">
+                                                            <div class="caption-wrapper div-table">
+                                                                <div class="caption-inner div-cell">
+                                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2198,34 +2202,34 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="caption before-media">
-                                <h3 class="caption-title">Nom du comédiens</h3>
-                                <p class="caption-category">Nom du Groupe</p>
-                            </div>
-                            <div class="caption">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line list-inline text-center">
-                                    <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                                </ul>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédiens</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
+                                </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <!-- -->
-                    <div class="col-sm-6 col-md-3" data-animation="fadeInUp" data-animation-delay="700">
-                        <div class="thumbnail no-border no-padding text-center">
-                            <div class="hex">
-                                <div class="hex-deg">
+                        <!-- -->
+                        <div data-animation="fadeInUp" data-animation-delay="700">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
                                     <div class="hex-deg">
                                         <div class="hex-deg">
-                                            <div class="hex-inner">
-                                                <div class="media">
-                                                    <img src="assets/img/preview/speaker-4.jpg" alt="">
-                                                    <div class="caption hovered">
-                                                        <div class="caption-wrapper div-table">
-                                                            <div class="caption-inner div-cell">
-                                                                <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                            <div class="hex-deg">
+                                                <div class="hex-inner">
+                                                    <div class="media">
+                                                        <img src="assets/img/preview/speaker-4.jpg" alt="">
+                                                        <div class="caption hovered">
+                                                            <div class="caption-wrapper div-table">
+                                                                <div class="caption-inner div-cell">
+                                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                                </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -2234,19 +2238,163 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="caption before-media">
-                                <h3 class="caption-title">Nom du comédien</h3>
-                                <p class="caption-category">Nom du Groupe</p>
-                            </div>
-                            <div class="caption">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
-                                <ul class="social-line list-inline text-center">
-                                    <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
-                                </ul>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédien</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
+                                </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
+                        <div  data-animation="fadeInUp" data-animation-delay="100">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
+                                    <div class="hex-deg">
+                                    <div class="hex-deg">
+                                    <div class="hex-deg">
+                                        <div class="hex-inner">
+                                            <div class="media">
+                                                <img src="assets/img/preview/speaker-1.jpg" alt="">
+                                                <div class="caption hovered">
+                                                    <div class="caption-wrapper div-table">
+                                                        <div class="caption-inner div-cell">
+                                                            <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    </div>
+                                    </div>
+                                </div>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédien</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
+                                </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- -->
+                        <div data-animation="fadeInUp" data-animation-delay="300">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-deg">
+                                                <div class="hex-inner">
+                                                    <div class="media">
+                                                        <img src="assets/img/preview/speaker-2.jpg" alt="">
+                                                        <div class="caption hovered">
+                                                            <div class="caption-wrapper div-table">
+                                                                <div class="caption-inner div-cell">
+                                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédien</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
+                                </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- -->
+                        <div data-animation="fadeInUp" data-animation-delay="500">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-deg">
+                                                <div class="hex-inner">
+                                                    <div class="media">
+                                                        <img src="assets/img/preview/speaker-3.jpg" alt="">
+                                                        <div class="caption hovered">
+                                                            <div class="caption-wrapper div-table">
+                                                                <div class="caption-inner div-cell">
+                                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédiens</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
+                                </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- -->
+                        <div data-animation="fadeInUp" data-animation-delay="700">
+                            <div class="thumbnail no-border no-padding text-center">
+                                <div class="hex">
+                                    <div class="hex-deg">
+                                        <div class="hex-deg">
+                                            <div class="hex-deg">
+                                                <div class="hex-inner">
+                                                    <div class="media">
+                                                        <img src="assets/img/preview/speaker-4.jpg" alt="">
+                                                        <div class="caption hovered">
+                                                            <div class="caption-wrapper div-table">
+                                                                <div class="caption-inner div-cell">
+                                                                    <p class="caption-buttons"><a href="#" class="btn caption-link"><i class="fa fa-link"></i></a></p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="caption before-media">
+                                    <h3 class="caption-title">Nom du comédien</h3>
+                                    <p class="caption-category">Nom du Groupe</p>
+                                </div>
+                                <div class="caption">
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed vel velit</p>
+                                    <ul class="social-line list-inline text-center">
+                                        <li><a href="#" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#" class="phone"><i class="fa fa-phone"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        
                     </div>
                 </div>
                 <!-- /Speakers row -->

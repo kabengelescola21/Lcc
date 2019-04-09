@@ -1,0 +1,17 @@
+.partners-carousel .owl-carousel div a {
+
+    border-radius: 0;
+
+    padding: 0;
+
+}
+.partners-carousel .owl-carousel div a.facebook {
+
+    background-color: #3c5b9b;
+
+}
+.partners-carousel .owl-carousel div a {
+
+    background-color: #c3c3c3;
+
+}
