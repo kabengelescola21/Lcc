@@ -224,37 +224,6 @@
         </section>
         <!-- /PAGE ABOUT -->
 
-        <!-- Donation -->
-        <section class="page-section color" id="donation">
-            <div class="container">
-                <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Don <small> / vous pouvez soutenir vos artistes</small></span>
-                </h1>
-                <p>Etiam molestie, quam eget dignissim dapibus, diam libero auctor justo, a eleifend urna tellus et ligula. Curabitur elementum diam nec lacus pretium.</p>
-
-                <!-- Make a donation now
-                https://developer.paypal.com/webapps/developer/docs/classic/paypal-payments-standard/integration-guide/Appx_websitestandard_htmlvariables/
-                -->
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                    <!-- Identify your business so that you can collect the payments. -->
-                    <input type="hidden" name="business" value="yourpaypalemail@domain.com">
-                    <!-- Specify a Donate button. -->
-                    <input type="hidden" name="cmd" value="_donations">
-                    <!-- Specify details about the contribution -->
-                    <input type="hidden" name="item_name" value="Donate">
-                    <input type="hidden" name="item_number" value="">
-                    <input type="hidden" name="amount" value="25.00">
-                    <input type="hidden" name="currency_code" value="USD">
-                    <!-- Display the payment button. -->
-                    <button name="submit" class="btn btn-theme">faire un don maintenant</button>
-                    <img alt="" border="0" width="1" height="1" src="../../../www.paypalobjects.com/en_US/i/scr/pixel.gif">
-                </form>
-
-            </div>
-        </section>
-        <!-- /Donation -->
-
         <!-- PAGE SCHEDULE -->
         <section class="page-section light" id="schedule">
             <div class="container">
@@ -2065,34 +2034,6 @@
         </section>
         <!-- /PAGE SCHEDULE -->
 
-        <!-- PAGE SPONSORS -->
-        <section class="page-section" id="sponsors">
-            <div class="container">
-                <h1 class="section-title">
-                    <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-thumbs-up fa-stack-1x"></i></span></span>
-                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Sponsors de l'evenement <small> / n'oubliez pas ca</small></span>
-                </h1>
-                <div class="partners-carousel" data-animation="fadeInUp" data-animation-delay="300">
-                    <div class="owl-carousel">
-                    <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
-                    <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
-                </div>
-                <div class="text-center margin-top">
-                    <a data-animation="flipInY" data-animation-delay="500" href="#" class="btn btn-theme"><i class="fa fa-thumbs-up"></i> Devenir sponsors</a>
-                </div>
-            </div>
-        </section>
-        <!-- /PAGE SPONSORS -->
         <!-- PAGE COMEDIENS -->
         
         <!-- PAGE COMEDIENS -->
@@ -2405,7 +2346,7 @@
             </div>
         </section>
         <!-- /PAGE SPEAKERS -->
-
+        
         <!-- PAGE PRICE -->
         <section class="page-section" id="price">
             <div class="container">
@@ -2491,7 +2432,7 @@
                 <form id="registration-form" name="registration-form" class="registration-form" action="#" method="post">
                     <div class="row">
                         <div class="col-sm-12 form-alert"></div>
-                        <div class="col-md-2 col-md-offset-1">
+                        <div class="col-md-5 col-md-offset-1">
                             <div class="form-group" data-animation="fadeInUp" data-animation-delay="200">
                                 <input
                                         type="text" class="form-control input-name"
@@ -2499,7 +2440,7 @@
                                         placeholder="Name and Surname"/>
                             </div>
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-5">
                             <div class="form-group" data-animation="fadeInUp" data-animation-delay="400">
                                 <input
                                         type="text" class="form-control input-email"
@@ -2507,24 +2448,28 @@
                                         placeholder="Your Mail Here"/>
                             </div>
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-5 col-md-offset-1">
                             <div class="form-group" data-animation="fadeInUp" data-animation-delay="600">
                                 <input
                                         type="text" class="form-control input-phone"
                                         placeholder="Your Phone Number"/>
                             </div>
                         </div>
-                        <div class="col-md-2">
-                            <div class="form-group" data-animation="fadeInUp" data-animation-delay="600">
-                                <input
-                                        type="text" class="form-control input-phone"
-                                        placeholder="Your Phone Number"/>
+                        <div class="col-md-5">
+                        <div class="form-group selectpicker-wrapper" data-animation="fadeInUp" data-animation-delay="800">
+                                <select
+                                        class="selectpicker input-price" data-live-search="true" data-width="100%"
+                                        data-toggle="tooltip" title="Select Your Price Tab">
+                                    <option>Select Your Price Tab</option>
+                                    <option>$100</option>
+                                    <option>$200</option>
+                                </select>
                             </div>
                         </div>
-                        <div class="col-md-2">
+                        <div class="col-md-10  col-md-offset-1">
                             <div class="form-group" data-animation="fadeInUp" data-animation-delay="600">
                                 <input
-                                        type="number" class="form-control input-phone"
+                                        type="text" class="form-control input-number"
                                         placeholder="Nombre de place"/>
                             </div>
                         </div>
@@ -2565,6 +2510,66 @@
                 <!--/Google map-->
         </section>
         <!-- /PAGE LOCATION -->
+
+        <!-- Donation -->
+        <section class="page-section color" id="donation">
+            <div class="container">
+                <h1 class="section-title">
+                    <span data-animation="flipInY" data-animation-delay="300" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-ticket fa-stack-1x"></i></span></span>
+                    <span data-animation="fadeInRight" data-animation-delay="500" class="title-inner">Don <small> / vous pouvez soutenir vos artistes</small></span>
+                </h1>
+                <p>Etiam molestie, quam eget dignissim dapibus, diam libero auctor justo, a eleifend urna tellus et ligula. Curabitur elementum diam nec lacus pretium.</p>
+
+                <!-- Make a donation now
+                https://developer.paypal.com/webapps/developer/docs/classic/paypal-payments-standard/integration-guide/Appx_websitestandard_htmlvariables/
+                -->
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+                    <!-- Identify your business so that you can collect the payments. -->
+                    <input type="hidden" name="business" value="yourpaypalemail@domain.com">
+                    <!-- Specify a Donate button. -->
+                    <input type="hidden" name="cmd" value="_donations">
+                    <!-- Specify details about the contribution -->
+                    <input type="hidden" name="item_name" value="Donate">
+                    <input type="hidden" name="item_number" value="">
+                    <input type="hidden" name="amount" value="25.00">
+                    <input type="hidden" name="currency_code" value="USD">
+                    <!-- Display the payment button. -->
+                    <button name="submit" class="btn btn-theme">faire un don maintenant</button>
+                    <img alt="" border="0" width="1" height="1" src="../../../www.paypalobjects.com/en_US/i/scr/pixel.gif">
+                </form>
+
+            </div>
+        </section>
+        <!-- /Donation -->
+        
+        <!-- PAGE SPONSORS -->
+        <section class="page-section" id="sponsors">
+            <div class="container">
+                <h1 class="section-title">
+                    <span data-animation="flipInY" data-animation-delay="100" class="icon-inner"><span class="fa-stack"><i class="fa rhex fa-stack-2x"></i><i class="fa fa-thumbs-up fa-stack-1x"></i></span></span>
+                    <span data-animation="fadeInRight" data-animation-delay="100" class="title-inner">Sponsors de l'evenement <small> / n'oubliez pas ca</small></span>
+                </h1>
+                <div class="partners-carousel" data-animation="fadeInUp" data-animation-delay="300">
+                    <div class="owl-carousel">
+                    <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-1.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-2.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-3.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-4.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-5.png" alt=""/></a></div>
+                    <div><a href="#"><img src="assets/img/partner/light/partner-6.png" alt=""/></a></div>
+                </div>
+                <div class="text-center margin-top">
+                    <a data-animation="flipInY" data-animation-delay="500" href="#" class="btn btn-theme"><i class="fa fa-thumbs-up"></i> Devenir sponsors</a>
+                </div>
+            </div>
+        </section>
+        <!-- /PAGE SPONSORS -->
 
         <!-- PAGE CONTACT -->
         <section class="page-section color contactez-nous">

@@ -246,7 +246,7 @@ var theme = function () {
         initPartnerSlider: function () {
             $('.partners-carousel .owl-carousel').owlCarousel({
                 autoplay: true,
-                loop: true,
+                loop: false,
                 margin: 25,
                 dots: false,
                 nav: true,
@@ -256,10 +256,10 @@ var theme = function () {
                 ],
                 responsive: {
                     0:    {items: 1},
-                    479:  {items: 2},
-                    768:  {items: 3},
-                    991:  {items: 5},
-                    1024: {items: 6}
+                    479:  {items: 1},
+                    768:  {items: 2},
+                    991:  {items: 3},
+                    1024: {items: 4}
                 }
             });
         },
